@@ -4,5 +4,32 @@
     <string name="notificacion">Configurar Notificación</string>
     <string name="btnToast">Toast</string>
     <string name="btnNotificacion">Notificación</string>
+    <string name="tituloMensaje">Título del mensaje:</string>
+    <string name="textoMensaje">Texto del mensaje:</string>
+    <string name="segundos">Segundos para la notificación:</string>
+    <string name="btnEnviar">Enviar</string>
+    <string name="desplazamientoHorizontal">Dezplazamiento Horizontal:</string>
+    <string name="desplazamientoVertical">Dezplazamiento Vertical:</string>
+    <string name="introduzcaTexto">Introduzca el texto:</string>
+    <string name="alineacionHorizontal">Alineación Horizontal:</string>
+    <string name="alineacionVertical">Alineación Vertical:</string>
+    <string-array name="alineacionHorizontal">
+        <item>@string/Izquierda</item>
+        <item>@string/Medio</item>
+        <item>@string/Derecha</item>
+    </string-array>
+    <string name="Izquierda">Izquierda</string>
+    <string name="Medio">Medio</string>
+    <string name="Derecha">Derecha</string>
+    <string name="Arriba">Arriba</string>
+    <string name="Centro">Centro</string>
+    <string name="Abajo">Abajo</string>
+    <string-array name="alineacionVertical">
+        <item>@string/Arriba</item>
+        <item>@string/Centro</item>
+        <item>@string/Abajo</item>
+    </string-array>
 
+
+    <string name="btnMostrar">Mostrar</string>
 </resources>
