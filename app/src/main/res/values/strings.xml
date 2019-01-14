@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Inicio</string>
+    <string name="toast">Configurar Toast</string>
+    <string name="notificacion">Configurar Notificación</string>
+    <string name="btnToast">Toast</string>
+    <string name="btnNotificacion">Notificación</string>
+
+</resources>
